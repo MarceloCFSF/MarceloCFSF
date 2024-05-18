@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcelo and I'm currently a **Science and Technology Bacharel** student, but I'm almost advancing to **Science Computer Bacharel**. I love programming and technology, always looking to learn more about it.
+My name is Marcelo and I hold a Bachelor's degree in **Science and Technology** from **UFABC**. I am currently completing my Bachelor's degree in **Computer Science**, also at UFABC. I love programming and technology, always looking to learn more about it.
 
 ## My Skills: 
  - Javascript
